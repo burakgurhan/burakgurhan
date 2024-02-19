@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @burakgurhan
 - 👀 I’m interested in cars and economics.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me via email grhnburak@gmail.com
 
 <!---
