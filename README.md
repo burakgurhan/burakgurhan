@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burakgurhan
 - 👀 I love in cars.
-- 🌱 I’m currently learning Data Engineering.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me via email grhnburak@gmail.com
 
 <!---
